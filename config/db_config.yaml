@@ -1,0 +1,13 @@
+postgres:
+  uri: "${POSTGRES_URI}"
+mysql:
+  host: "${MYSQL_HOST}"
+  port: ${MYSQL_PORT}
+  user: "${MYSQL_USER}"
+  password: "${MYSQL_PASSWORD}"
+  database: "${MYSQL_DATABASE}"
+api:
+  url: "${API_URL}"
+paths:
+  data_dir: "${DATA_DIR}"
+

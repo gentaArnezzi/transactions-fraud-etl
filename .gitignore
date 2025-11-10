@@ -1,0 +1,76 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Data files
+# Keep sample data but ignore large generated files
+data/raw/*.json
+data/raw/*.csv
+data/processed/*.csv
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Tableau CSV files (large files)
+data/tableau/*.csv
+# But keep Dashboard.png and documentation
+!data/tableau/Dashboard.png
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Airflow
+airflow/
+logs/
+*.log
+
+# PostgreSQL
+*.sql.backup
+*.dump
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
