@@ -134,8 +134,8 @@ This project implements a complete **ETL (Extract, Transform, Load) pipeline** f
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/financial-etl-project.git
-   cd financial-etl-project
+   git clone https://github.com/gentaArnezzi/transactions-fraud-etl.git
+   cd transactions-fraud-etl
    ```
 
 2. **Create virtual environment**
