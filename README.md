@@ -516,10 +516,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Irgy Genta Arnezzi**
+**Irgya Genta Arnezzi**
 - GitHub: [@gentaArnezzi](https://github.com/gentaArnezzi)
-- LinkedIn: [Irgy Genta Arnezzi](https://www.linkedin.com/in/irgyagentaarnezzi/)
-- Email: your.email@example.com
+- LinkedIn: [Irgya Genta Arnezzi](https://www.linkedin.com/in/irgyagentaarnezzi/)
+- Email: irgyagentaarnezzu@gmail.com
 
 ---
 
